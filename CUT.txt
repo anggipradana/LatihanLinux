@@ -1,0 +1,3 @@
+Sekolah,Anggi,69,Agnes
+Cilsy,Rinze,30,Maudy,Pevita
+Hacker,Isyana,87,Safira,Tiara
